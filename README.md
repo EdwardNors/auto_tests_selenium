@@ -1,2 +1,2 @@
 # auto_tests_selenium
-of course
+working with test automation with Selenium and Python
